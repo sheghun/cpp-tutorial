@@ -5,4 +5,5 @@ project(intro)
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(intro src/main.cpp)
+add_executable(basic src/001_basic/main.cpp)
+add_executable(basic_assignment src/001_basic/assignment.cpp)
