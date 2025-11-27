@@ -17,3 +17,4 @@ add_executable(output_formatting src/002_variables_and_data/output_formatting.cp
 add_executable(numeric_limits src/002_variables_and_data/numeric_limits.cpp)
 add_executable(math_functions src/002_variables_and_data/math_functions.cpp)
 add_executable(hexagon_area src/002_variables_and_data/hexagon_area.cpp)
+add_executable(weird_primitive_types src/002_variables_and_data/weird_primitive_types.cpp)
