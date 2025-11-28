@@ -21,3 +21,4 @@ add_executable(weird_primitive_types src/002_variables_and_data/weird_primitive_
 add_executable(celsius_to_fahrenheit src/002_variables_and_data/celsius_to_fahrenheit.cpp)
 add_executable(base_area_and_volume src/002_variables_and_data/base_area_and_volume.cpp)
 add_executable(constants src/002_variables_and_data/constants.cpp)
+add_executable(type_data_conversion src/002_variables_and_data/type_data_conversion.cpp)
