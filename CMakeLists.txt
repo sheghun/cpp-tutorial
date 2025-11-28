@@ -23,3 +23,4 @@ add_executable(base_area_and_volume src/002_variables_and_data/base_area_and_vol
 add_executable(constants src/002_variables_and_data/constants.cpp)
 add_executable(type_data_conversion src/002_variables_and_data/type_data_conversion.cpp)
 add_executable(overflow_and_underflow src/002_variables_and_data/overflow_and_underflow.cpp)
+add_executable(printing_integers_binary src/003_bitwise_operation/printing_integers_binary.cpp)
