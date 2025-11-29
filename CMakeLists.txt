@@ -27,3 +27,4 @@ add_executable(printing_integers_binary src/003_bitwise_operation/printing_integ
 add_executable(shift_operations src/003_bitwise_operation/shift_operations.cpp)
 add_executable(bit_logical_operators src/003_bitwise_operation/logical_operators.cpp)
 add_executable(mask_bit src/003_bitwise_operation/mask_bit.cpp)
+add_executable(mask_bit_example src/003_bitwise_operation/mask_bit_example.cpp)
