@@ -26,3 +26,4 @@ add_executable(overflow_and_underflow src/002_variables_and_data/overflow_and_un
 add_executable(printing_integers_binary src/003_bitwise_operation/printing_integers_binary.cpp)
 add_executable(shift_operations src/003_bitwise_operation/shift_operations.cpp)
 add_executable(bit_logical_operators src/003_bitwise_operation/logical_operators.cpp)
+add_executable(mask_bit src/003_bitwise_operation/mask_bit.cpp)
