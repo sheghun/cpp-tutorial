@@ -36,3 +36,4 @@ add_executable(check_age_assigment src/004_flow_control/check_age_assignment.cpp
 add_executable(day_valid_assignment src/004_flow_control/day_valid_assignment.cpp)
 add_executable(day_difference_assignment src/004_flow_control/day_difference_assignment.cpp)
 add_executable(location_rectangle_assignment src/004_flow_control/location_rectangle_assignment.cpp)
+add_executable(for_loop src/004_flow_control/for_loop.cpp)
