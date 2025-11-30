@@ -32,3 +32,4 @@ add_executable(bit_packing_color_information src/003_bitwise_operation/packing_c
 add_executable(if_statements src/004_flow_control/if_statements.cpp)
 add_executable(switch_statements src/004_flow_control/switch_statements.cpp)
 add_executable(check_odd_or_even src/004_flow_control/check_odd_or_even.cpp)
+add_executable(check_age_assigment src/004_flow_control/check_age_assignment.cpp)
