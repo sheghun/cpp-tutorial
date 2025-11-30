@@ -37,3 +37,4 @@ add_executable(day_valid_assignment src/004_flow_control/day_valid_assignment.cp
 add_executable(day_difference_assignment src/004_flow_control/day_difference_assignment.cpp)
 add_executable(location_rectangle_assignment src/004_flow_control/location_rectangle_assignment.cpp)
 add_executable(for_loop src/004_flow_control/for_loop.cpp)
+add_executable(comma_operator src/002_variables_and_data/comma_operator.cpp)
