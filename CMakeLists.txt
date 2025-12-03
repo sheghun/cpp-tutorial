@@ -39,3 +39,4 @@ add_executable(location_rectangle_assignment src/004_flow_control/location_recta
 add_executable(for_loop src/004_flow_control/for_loop.cpp)
 add_executable(comma_operator src/002_variables_and_data/comma_operator.cpp)
 add_executable(while_loop src/004_flow_control/while_loop.cpp)
+add_executable(year_calendar_assignment src/004_flow_control/year_calendar_assignment.cpp)
